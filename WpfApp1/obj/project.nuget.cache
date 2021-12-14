@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8dNxv4upUwntWxseOlgdEyITF+zFcFis4k44msi0MZc8I1CozMvtVZU/Z5+hM/HoQtdSLtOw77Up2jOj+3TEwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfApp1\\WpfFaceID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\media\\.nuget\\packages\\mvvmlight\\5.4.1.1\\mvvmlight.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\media\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\media\\.nuget\\packages\\system.json\\4.7.1\\system.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

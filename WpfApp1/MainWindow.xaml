@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfFaceID.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid>
+        <TextBlock Text="Image File Path" HorizontalAlignment="Center" Margin="0,50,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="1600" Height="60" FontSize="20"/>
+        <TextBox Name="FilePathTextBox" HorizontalAlignment="Left" Margin="160,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="1200" Height="60" FontSize="30"/>
+        <Button Content="File" HorizontalAlignment="Left" Margin="1400,120,0,0" VerticalAlignment="Top" Height="60" Width="165" Click="GetImageByFileDialog"/>
+        <Button Content="Go" HorizontalAlignment="Left" Margin="1600,120,0,0" VerticalAlignment="Top" Height="60" Width="165" Click="GetImageByFilePath"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="0,200,0,0" Width="1600" Height="800">
+            <Canvas Name="FaceStackCanvas" Width="1600" Height="800"  DragDrop.Drop="ImageDrop" AllowDrop="True"/>
+        </Border>
+        <Label Width="1600" Height="800" HorizontalAlignment="Left" Margin="160,200,0,0" DragDrop.Drop="ImageDrop" AllowDrop="True"/>
+
+    </Grid>
+</Window>
