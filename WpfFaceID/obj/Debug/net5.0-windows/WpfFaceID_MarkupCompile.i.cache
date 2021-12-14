@@ -1,19 +1,19 @@
 ﻿WpfFaceID
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Users\media\Documents\GitHub\WpfFaceID\WpfApp1\obj\Debug\net5.0-windows\
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\obj\Debug\net5.0-windows\
 WpfFaceID
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\media\Documents\GitHub\WpfFaceID\WpfApp1\App.xaml
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\App.xaml
 11407045341
 
-61731024716
-202-650752467
+6-1838039072
+1941361937091
 MainWindow.xaml;
 
 True

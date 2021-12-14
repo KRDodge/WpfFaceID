@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj": {}
+    "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj": {}
   },
   "projects": {
-    "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj": {
+    "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj",
+        "projectUniqueName": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj",
         "projectName": "WpfFaceID",
-        "projectPath": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj",
+        "projectPath": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj",
         "packagesPath": "C:\\Users\\media\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\obj\\",
+        "outputPath": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,16 +43,6 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "dependencies": {
-            "MvvmLight": {
-              "target": "Package",
-              "version": "[5.4.1.1, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
