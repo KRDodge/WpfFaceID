@@ -44,6 +44,10 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "dependencies": {
+            "IronPython": {
+              "target": "Package",
+              "version": "[2.7.11, )"
+            },
             "MvvmLight": {
               "target": "Package",
               "version": "[5.4.1.1, )"
