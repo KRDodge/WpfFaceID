@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zLcUkhtfLfgam7olJmlJMnOQYR0FV1wLgvTQlYvcjimXR4r56/s78fRNNgRUg2isFisvY5MLm8BF+Nsa3ZGl5g==",
+  "dgSpecHash": "+Mhdi5kh06mwNpBkSUyI4emvgjHbcFK8xvHXFGW1WmaI6WWUGryqqWOq4iKR87BJVIDFm9KZ5WB18H1jBFRY0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\media\\Documents\\GitHub\\WpfFaceID\\WpfFaceID\\WpfFaceID.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\media\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\media\\.nuget\\packages\\mvvmlight\\5.4.1.1\\mvvmlight.5.4.1.1.nupkg.sha512",
     "C:\\Users\\media\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\media\\.nuget\\packages\\python\\3.10.1\\python.3.10.1.nupkg.sha512",
     "C:\\Users\\media\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
     "C:\\Users\\media\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\media\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",

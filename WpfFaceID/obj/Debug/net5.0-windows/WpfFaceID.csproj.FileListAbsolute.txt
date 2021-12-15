@@ -20,3 +20,14 @@ C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\obj\Debug\net5.0-windows\Wpf
 C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\obj\Debug\net5.0-windows\ref\WpfFaceID.dll
 C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\obj\Debug\net5.0-windows\WpfFaceID.pdb
 C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\obj\Debug\net5.0-windows\WpfFaceID.genruntimeconfig.cache
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\Python\venv\FaceIDPython\DetectFaceID.py
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\Python\venv\FaceIDPython\LearnFaceID.py
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\Python\venv\FaceIDPython\RecognizeFaceID.py
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\Python\venv\Lib\site-packages\cv2\data\haarcascade_frontalface_alt.xml
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\Microsoft.Dynamic.dll
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\Microsoft.Scripting.Metadata.dll
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\Microsoft.Scripting.dll
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\IronPython.Modules.dll
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\IronPython.SQLite.dll
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\IronPython.Wpf.dll
+C:\Users\media\Documents\GitHub\WpfFaceID\WpfFaceID\bin\Debug\net5.0-windows\IronPython.dll

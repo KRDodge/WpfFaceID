@@ -14,6 +14,7 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgpython Condition=" '$(Pkgpython)' == '' ">C:\Users\media\.nuget\packages\python\3.10.1</Pkgpython>
     <PkgMvvmLight Condition=" '$(PkgMvvmLight)' == '' ">C:\Users\media\.nuget\packages\mvvmlight\5.4.1.1</PkgMvvmLight>
   </PropertyGroup>
 </Project>

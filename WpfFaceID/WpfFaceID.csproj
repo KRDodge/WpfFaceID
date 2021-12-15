@@ -9,8 +9,32 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="IronPython" Version="2.7.11" />
     <PackageReference Include="MvvmLight" Version="5.4.1.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="python" Version="3.10.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Python\venv\Lib\site-packages\numpy\.libs\libopenblas.XWYDX2IKJW2NMTWSFYNGFUWKQU3LYTCZ.gfortran-win_amd64.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Python\venv\FaceIDPython\DetectFaceID.py">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Python\venv\FaceIDPython\LearnFaceID.py">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Python\venv\FaceIDPython\RecognizeFaceID.py">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Python\venv\Lib\site-packages\cv2\data\haarcascade_frontalcatface.xml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+    <None Update="Python\venv\Lib\site-packages\cv2\data\haarcascade_frontalface_alt.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
